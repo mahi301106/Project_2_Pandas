@@ -107,14 +107,3 @@ It covers CSV handling, exploratory data analysis, filtering operations, file ou
 This serves as a beginner-level data analytics project showcasing practical implementation of Pandas.
 
 ⭐ Thank you for viewing this project!
-
-
-
-
----
-
-If you want, I can now:
-- Make it shorter and cleaner  
-- Or make it more advanced / internship-level  
-
-- Or help you improve your GitHub profile overall 😌🔥
