@@ -109,19 +109,12 @@ This serves as a beginner-level data analytics project showcasing practical impl
 ⭐ Thank you for viewing this project!
 
 
----
 
-# 💎 What This README Shows
-
-✔ Structured  
-✔ Clean  
-✔ Academic + Portfolio ready  
-✔ Technical but beginner-friendly  
-✔ Recruiter safe  
 
 ---
 
 If you want, I can now:
 - Make it shorter and cleaner  
 - Or make it more advanced / internship-level  
+
 - Or help you improve your GitHub profile overall 😌🔥
